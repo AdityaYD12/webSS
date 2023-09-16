@@ -228,7 +228,7 @@
             </div>
         </div>
         <div class="img-container" data-category="Dna">
-            <img src="{{asset('picture/keanggotaan/DNA_AYD.png') }}" alt="anggota">
+            <img src="https://cdn.discordapp.com/attachments/802060498627067945/1152607602761543830/DNA_AYD.png" alt="anggota">
             <div class="img-caption">
                 <h4>Aditya Yoga Darmawan</h4>
                 <p>Staff Anggota</p>
